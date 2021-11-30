@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Code\reverseString\reverseString\Source.cpp(12,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  reverseString.vcxproj -> E:\Code\reverseString\x64\Debug\reverseString.exe
